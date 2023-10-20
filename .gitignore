@@ -39,8 +39,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# docker/crdb
-.cockroach-data
 
 # next-pwa/workbox generated
 public/sw.js*
