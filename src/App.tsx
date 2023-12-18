@@ -47,7 +47,7 @@ const App: FC = () => {
       name: 'Charaf',
       email: 'charafazzaoui@gmail.com',
       phone: '+31640937561',
-      company: 'Fareplay protoco and Troop Labs',
+      company: 'Troop Labs',
       location: 'Amsterdam',
       about:
         " I'm all about creating awesome tech stuff that's both fun and makes a real difference. My style? Mixing serious skills with a love for all the new and exciting things in tech. For me, it's about making the tech world enjoyable and meaningful",
