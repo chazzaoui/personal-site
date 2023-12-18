@@ -50,7 +50,7 @@ const App: FC = () => {
       company: 'Troop Labs',
       location: 'Amsterdam',
       about:
-        " I'm all about creating awesome tech stuff that's both fun and makes a real difference. My style? Mixing serious skills with a love for all the new and exciting things in tech. For me, it's about making the tech world enjoyable and meaningful",
+        "I'm all about creating awesome tech stuff that's both fun and makes a real difference. My style? Mixing serious skills with a love for all the new and exciting things in tech. For me, it's about making the tech world enjoyable and meaningful",
       skills: [
         'TypeScript',
         'Progressive Web Apps',
@@ -195,7 +195,7 @@ const App: FC = () => {
       headerOne:
         "Hey there! I'm Charaf – Web3 Enthusiast, Front-End Whiz, and Tech founder",
       descriptionOne:
-        "Hey, I'm Charaf, and I'm a developer who loves building things that have a positive impact on people's lives. I'm all about tackling real-world problems and building solutions that make a difference. ",
+        "I'm all about creating awesome tech stuff that's both fun and makes a real difference. My style? Mixing serious skills with a love for all the new and exciting things in tech. For me, it's about making the tech world enjoyable and meaningful",
       profileImage: 'https://images.codefoli.com/217-profile-image',
       sections: [
         {
@@ -221,9 +221,9 @@ const App: FC = () => {
         'https://assets.website-files.com/63360c0c2b86f80ba8b5421a/633b52d3639fb5250039e574_my-story-image-paperfolio-webflow-template.png',
       headerTwo: 'My story as a designer',
       descriptionOne:
-        "Hey, I'm Charaf, and I'm a developer who loves building things that have a positive impact on people's lives. I'm all about tackling real-world problems and building solutions that make a difference. ",
+        "I'm all about creating awesome tech stuff that's both fun and makes a real difference. My style? Mixing serious skills with a love for all the new and exciting things in tech. For me, it's about making the tech world enjoyable and meaningful",
       descriptionTwo:
-        "Embarking on a journey fueled by curiosity and passion, I found solace in the world of code. From solving complex problems to creating user-friendly interfaces, every project has been a stepping stone in my development career. Continually learning and adapting, I've embraced new technologies and methodologies to build robust and efficient solutions. My path as a developer is more than a career; it's a lifelong pursuit of innovation, creativity, and technological advancement.",
+        "I'm a developer, sure, but really, I'm an innovator and a problem-solver. I believe tech can do wonders, and I'm stoked to see where my entrepreneurial and web3 journey takes me next.",
       sections: [
         {
           type: 'RESUME',
