@@ -35,7 +35,7 @@ const Home: FC<{
       <div className="flex flex-col justify-center mx-4 md:mx-10 md-flex-row">
         <animated.div style={headerAnimation} className={'md:mr-10'}>
           <div className="mx-auto mt-10 max-w-2xl font-bold xl:mt-32">
-            <h1 className="font-extra-bold mx-auto max-w-[15ch] text-center text-3xl leading-snug transition-all md:text-5xl md:leading-relaxed md:mx-0 md:text-left xl:text-6xl xl:leading-normal">
+            <h1 className="font-extra-bold mx-auto max-w-[15ch] text-center text-3xl leading-snug transition-all md:text-4xl md:leading-relaxed md:mx-0 md:text-left xl:text-5xl xl:leading-normal">
               {pageData.headerOne}
             </h1>
             <p className="mx-auto max-w-[35ch] text-center text-base opacity-60 transition-all md:mx-0 md:text-left xl:max-w-[50ch]">
